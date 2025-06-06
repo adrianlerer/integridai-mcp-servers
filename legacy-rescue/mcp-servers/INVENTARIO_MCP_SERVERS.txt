@@ -1,0 +1,9 @@
+total 112
+-rw-r--r--  1 adria1  staff     0B  5 jun.  20:26 INVENTARIO_MCP_SERVERS.txt
+-rwxr-xr-x@ 1 adria1  staff   7,0K  5 jun.  18:01 mcp_integridai_FIXED.cjs
+-rwxr-xr-x@ 1 adria1  staff   6,5K  5 jun.  09:59 mcp_integridai_v5_strict.cjs
+-rwxr-xr-x@ 1 adria1  staff   9,6K  5 jun.  10:19 mcp_integridai_v6_chatgpt_strict.cjs
+-rwxr-xr-x  1 adria1  staff   2,2K  5 jun.  10:50 mcp_integridai_v7_enhanced.cjs
+-rw-r--r--@ 1 adria1  staff   2,9K  4 jun.  22:33 mcp_ley27401_server_FIXED_v3.js
+-rw-r--r--@ 1 adria1  staff   7,7K  4 jun.  23:44 mcp_ley27401_server_v4.0_CHATGPT.js
+-rwxr-xr-x@ 1 adria1  staff    10K  5 jun.  09:48 mcp_ley27401_server_v4.2_FIXED.cjs

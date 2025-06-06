@@ -1,0 +1,7 @@
+total 1352
+drwxr-xr-x@ 30 adria1  staff     960  5 jun.  16:11 clean-deploy-integridai
+-rw-------@  1 adria1  staff   48349 25 may.  22:42 INTEGRIDAI_Resumen_Marcas.pdf
+drwxr-xr-x  14 adria1  staff     448  5 jun.  17:51 integridai-mcp-servers
+-rw-r--r--   1 adria1  staff       0  5 jun.  20:16 INVENTARIO.txt
+-rw-r--r--@  1 adria1  staff  632991  1 jun.  22:19 MCP y su utilidad para IntegridAI.pdf
+-rwxr-xr-x@  1 adria1  staff    7928  5 jun.  09:35 mcp_ley27401_server.js

@@ -1,0 +1,35 @@
+{
+  "name": "integridai-mcp-mvp",
+  "version": "1.0.0",
+  "description": "IntegridAI - Compliance empresarial con IA y protocolo MCP",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest --passWithNoTests",
+    "test:watch": "node --experimental-vm-modules node_modules/.bin/jest --watch --passWithNoTests",
+    "build": "node scripts/build.js",
+    "lint": "eslint src/ --ext .js",
+    "lint:fix": "eslint src/ --ext .js --fix",
+    "validate": "node scripts/validate-compliance.js",
+    "setup": "node scripts/setup-project.js",
+    "migrate": "node scripts/migrate-from-legacy.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.3",
+    "openai": "^4.52.7",
+    "zod": "^3.23.8",
+    "winston": "^3.13.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4",
+    "eslint": "^9.5.0"
+  },
+  "author": "Ignacio Adrián Lerer",
+  "license": "PROPRIETARY",
+  "copyright": "© 2025 IntegridAI - Todos los derechos reservados"
+}
